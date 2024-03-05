@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "135230598451",
+    "project_id": "duolingo-4365c",
+    "storage_bucket": "duolingo-4365c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135230598451:android:654de107e0b229717d6246",
+        "android_client_info": {
+          "package_name": "com.example.pro1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3bYw-O0TBHT5cytoz-kfUaxZFlcfvu9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135230598451:android:f38714cfb4536bc27d6246",
+        "android_client_info": {
+          "package_name": "com.yuhyuhyuh.pro1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3bYw-O0TBHT5cytoz-kfUaxZFlcfvu9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
