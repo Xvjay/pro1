@@ -49,6 +49,7 @@ class _SignUppState extends State<SignUpp> {
       'last name': lastName,
       'email': email,
       'langaue': lang,
+      'uid': FirebaseAuth.instance.currentUser!.uid
     });
   }
 
